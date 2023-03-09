@@ -80,7 +80,6 @@ $ rm -r test
 
 
 # **Markdown**
----
 >Markdown (마크다운)은 일반 텍스트 기반의 경량 Markup (마크업) 언어이다.
 
 ## Markup (마크업) 이란?
